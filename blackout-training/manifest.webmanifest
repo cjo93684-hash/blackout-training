@@ -1,0 +1,17 @@
+{
+  "name": "BLACKOUT TRAINING",
+  "short_name": "BLACKOUT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "description": "Basketball and football performance training.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
